@@ -1,6 +1,6 @@
 
 # Stanford-Machine-Learning-Course
-### Andrew Ng's machine learning course on Coursera
+### Andrew Ng's [machine learning course](https://www.coursera.org/learn/machine-learning) on Coursera
 
 - Attended online lectures and quizzes and implemented in Matlab the following algorithms:
 	1.  Linear algebra and Linear Regression
